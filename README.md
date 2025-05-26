@@ -4,7 +4,7 @@
 </h3>
 
 <h4>
-  Mi pasión por la tecnología también me llevó por otro camino, es por eso, que actualmente estoy formándome como fullstack web developer en el bootcam de 
+  Mi pasión por la tecnología también me llevó por otro camino, es por eso que también me formé como fullstack web developer en el bootcam de 
   <span><a href="https://www.soyhenry.com/">Henry</a></span>.
 </h4>
 
